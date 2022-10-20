@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091546030441",
+    "project_id": "plotn-84607",
+    "storage_bucket": "plotn-84607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091546030441:android:f5a2254dd3d0b55b6dddf8",
+        "android_client_info": {
+          "package_name": "mans.snai.oms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091546030441-jr4l0bh015ifvrv1i0vputjlsuim8bg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpeWGlJrtcfjGa4CijyYNNlwJiSxkWf9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091546030441-jr4l0bh015ifvrv1i0vputjlsuim8bg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
